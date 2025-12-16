@@ -7,9 +7,9 @@ I'm Atakan as in Safak Atakan Celik
 - 🤖 Supporting a collaborative future of humans and machines with realistic steps. 
 - 🌱 Always be learning.
 - 👯 Looking to collaborate on side projects to make education accessible.
-- 📫 To reach me use: linkedin.com/in/safakatakancelik or safakatakancelik@gmail.com
+- 📫 To reach me use: www.linkedin.com/in/safakatakancelik or safakatakancelik@gmail.com
 - ❤️ Pronouns: he/they/them
-- ⚡ Fun fact: I love to sing and play jazz, and contemplate over the similarities between music and natural languages to make use of commonalities within computers.
-
+- ⚡ Fun fact: I love to sing and play jazz. Contemplating over the intersection of music, languages, communications, human mind to help us and computers learn better.
+- 👾 Curious about: What we would do if we were to discover new intelligent species?
 
 portfolio: www.satakanc.com
