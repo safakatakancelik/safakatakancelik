@@ -8,7 +8,7 @@ I'm Atakan as in Safak Atakan Celik
 - 🌱 Always be learning.
 - 👯 Looking to collaborate on side projects to make education accessible.
 - 📫 To reach me use: linkedin.com/in/safakatakancelik or safakatakancelik@gmail.com
-- ❤️ Pronouns: they/he
+- ❤️ Pronouns: he/they/them
 - ⚡ Fun fact: I love to sing and play jazz, and contemplate over the similarities between music and natural languages to make use of commonalities within computers.
 
 
