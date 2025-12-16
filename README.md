@@ -9,7 +9,7 @@ I'm Atakan as in Safak Atakan Celik
 - 👯 Looking to collaborate on side projects to make education accessible.
 - 📫 To reach me use: www.linkedin.com/in/safakatakancelik or safakatakancelik@gmail.com
 - ❤️ Pronouns: he/they/them
-- ⚡ Fun fact: I love to sing and play jazz, contemplating over the intersection of music, languages, communications, neural networks and nervous systems.
+- ⚡ Fun fact: I love contemplating over the intersection of music, languages, communications, neural networks, nervous systems and nature.
 - 👾 Curious about: What we would do if we were to discover new intelligent species?
 
 portfolio: www.satakanc.com
