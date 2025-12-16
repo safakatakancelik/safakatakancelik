@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**safakatakancelik/safakatakancelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Şafak Atakan Çelik, prefer "Atakan"
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on machine learning and business intelligence as a data analyst.
+- 💡 Have special interest in languages, NLP and communications.
+- 🤖 Supporting a collaborative future of humans and machines with realistic steps. 
+- 🌱 Always be learning.
+- 👯 Looking to collaborate on side projects to make education accessible.
+- 📫 How to reach me: safakatakancelik@gmail.com
+- 😄 Pronouns: they/he
+- ⚡ Fun fact: I love to sing and play jazz, and contemplate over the similarities between music and natural languages to make use of commonalities within computers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+portfolio: www.satakanc.com
