@@ -3,7 +3,7 @@
 I'm Atakan as in Safak Atakan Celik
 
 - 🔭 Currently working on machine learning and business intelligence as a data analyst.
-- 💡 Exceptionally interested in languages, NLP, communications and neural networks.
+- 💡 Exceptionally interested in languages, NLP, communications, neural networks, brains, nervous systems.
 - 🤖 Supporting a collaborative future of humans and machines with realistic steps. 
 - 🌱 Always be learning.
 - 👯 Looking to collaborate on side projects to make education accessible.
