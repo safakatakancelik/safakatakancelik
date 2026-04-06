@@ -9,7 +9,6 @@ I'm Atakan as in Safak Atakan Celik
 - 👯 Looking to collaborate on side projects to make education accessible.
 - 📫 To reach me use: www.linkedin.com/in/safakatakancelik or safakatakancelik@gmail.com
 - ❤️ Pronouns: he/they/them
-- ⚡ Fun fact: Used to be a pro gamer, love singing and playing jazz
 - 👾 Curious about: Future of VR, AR, and how things would happen if we were to discover new intelligent species?
   
 portfolio: www.satakanc.com
