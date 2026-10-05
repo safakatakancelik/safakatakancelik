@@ -38,6 +38,7 @@ I'm Atakan as in Safak Atakan Celik
 | **Neural Network from Scratch** | Multilayer perceptron built using pure NumPy for classification with manual forward/backpropagation. | `Neural Networks`, `Backpropagation`, `Gradient Descent`, `NumPy` | [Notebook](https://www.kaggle.com/code/safakatakancelik/neural-network-from-scratch-for-classification) • [Video](https://www.youtube.com/watch?v=aa9DTiZon3k) |
 
 
+
 ---
 
 ### 📊 Data Analytics, Visualization & Dashboards
