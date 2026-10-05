@@ -31,7 +31,6 @@ I'm Atakan as in Safak Atakan Celik
 
 | Project | Description | Tech Stack / Tags | Links |
 | :--- | :--- | :--- | :--- |
-
 | **Time Series Forecasting (Mobi Bikes)** | Production-ready SARIMA model isolating complex seasonal patterns to forecast bike trip demand. | `Time Series`, `SARIMA`, `Python`, `Databricks`, `pmdarima`, `statsmodels` | [Notebook](https://github.com/safakatakancelik/portfolio-public/blob/main/notebooks/timeseries_analysis_mobi_bikes_2025_trips/Time%20Series%20Forecasting%20-%20Mobi%20Bike%20Trips.ipynb) |
 | **Customer Segmentation & Strategy** | RFM analysis and K-Means clustering model for categorizing customer purchasing personas. | `Customer Segmentation`, `RFM Analysis`, `K-Means`, `EDA`, `Feature Eng.` | [Notebook](https://github.com/safakatakancelik/portfolio-public/blob/main/notebooks/customer_segmentation_dea112.ipynb) |
 | **Mall Customers Segmentation** | Full unsupervised ML pipeline (EDA, outlier filtering, scaling, elbow & silhouette analysis) for persona discovery. | `Python`, `Scikit-Learn`, `K-Means`, `Clustering`, `Pandas` | [Notebook](https://github.com/safakatakancelik/portfolio-public/blob/main/notebooks/mall_customers_segmentation.ipynb) |
